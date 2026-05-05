@@ -24,9 +24,18 @@ higher user ratings on the Apple App Store?
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
-## Dataset
-Download from: kaggle.com/datasets/gauthamp10/apple-appstore-apps
-Place appleAppData.csv in the project root folder
+## Note on Dataset
+The dataset file `appleAppData.csv` (387MB) exceeds GitHub's 
+100MB file size limit and is therefore not included in this repository.
+
+Please download it manually from:
+kaggle.com/datasets/gauthamp10/apple-appstore-apps
+
+Once downloaded, place it in the root of the project folder:
+Intro_to_DataSci_FinalProject/
+├── AppStore_Analysis.ipynb
+├── appleAppData.csv  ← place here
+└── README.md
 
 ## Project Structure
 Intro_to_DataSci_FinalProject/
