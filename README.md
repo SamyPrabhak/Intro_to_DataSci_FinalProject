@@ -18,7 +18,7 @@ with higher user ratings on the Apple App Store?
 - Apps with more reviews converge toward higher ratings (the App Store acts as a natural UX filter)
 
 ## Tools & Libraries
--Python 3.12  : Primary programming language
+-Python 3.12.11 : Primary programming language
 -Pandas : Data loading, cleaning, and manipulation
 -NumPy : Numerical computation
 -Matplotlib & Seaborn : Data visualization
