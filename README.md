@@ -33,9 +33,9 @@ kaggle.com/datasets/gauthamp10/apple-appstore-apps
 
 Once downloaded, place it in the root of the project folder:
 Intro_to_DataSci_FinalProject/
-├── AppStore_Analysis.ipynb
-├── appleAppData.csv  ← place here
-└── README.md
+── AppStore_Analysis.ipynb
+── appleAppData.csv  ← place here
+── README.md
 
 ## Project Structure
 Intro_to_DataSci_FinalProject/
